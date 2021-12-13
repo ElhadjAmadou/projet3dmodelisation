@@ -9,4 +9,4 @@
 |Rey-Gorrez   |Gabin|
 |Bounda	|Elie|
 |Oulhaci|Arslan|
-|Elhadj	|Amadou|  
+|BAH	|Elhadj Amadou|  
